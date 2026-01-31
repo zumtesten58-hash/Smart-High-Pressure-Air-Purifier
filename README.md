@@ -10,6 +10,9 @@ I can briefly press the left button to turn manual mode on or off. The time and 
 ### shopping list
 | Part | Purpose | Link | Price |
 | :--- | :--- | :--- | :--- |
-|12V power supply unit | energy supply | https://amzn.eu/d/dqCZdYm | 22,14€ |
-| L44 batteries | sliding gauge | https://amzn.eu/d/d7gHaOU | 4,02€ |
-| 30A ESC with BEC | Motor controller, power supply | [Link]([url](https://de.aliexpress.com/item/1000005040945.html?spm=a2g0o.cart.0.0.5e634ae4sCWPP5&mp=1&pdp_npi=6%40dis%21EUR%21EUR%204.23%21EUR%204.23%21%21EUR%204.23%21%21%21%40211b617b17698548923824789e168b%2112000020358468972%21ct%21AT%214782931091%21%211%210%21&gatewayAdapt=glo2deu)) | 4,23€ |
+|12V power supply unit | energy supply | https://amzn.eu/d/dqCZdYm | **22,14€** |
+| L44 batteries | sliding gauge | https://amzn.eu/d/d7gHaOU | **4,02€** |
+| 30A ESC with BEC | Motor controller, power supply | [AliExpress Link](https://de.aliexpress.com/item/1000005040945.html)| **4,23€** |
+| Hepa filter | First filter + 5 replacement filters | [AliExpress Link](https://de.aliexpress.com/item/1005006072703241.html) | **4,51€** |
+| GP2Y1014AU0F| dust sensor | [AliExpress Link](https://de.aliexpress.com/item/1005006072703241.html) | **3,69€**|
+| **TOTAL** | | | **38,59€** |
