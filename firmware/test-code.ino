@@ -9,8 +9,8 @@
 // ==========================================
 // 1. ZUGANGSDATEN & HARDWARE
 // ==========================================
-const char* ssid_global = "FRITZ!Box 7530 NM";
-const char* pass_global = "07715701272720165098";
+const char* ssid_global = "ssid";
+const char* pass_global = "pass";
 
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
